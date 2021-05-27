@@ -6,7 +6,7 @@
 
 I am JooKS. 
 
-![image](https://user-images.githubusercontent.com/62384022/119856593-6e5a6a80-bf45-11eb-90ab-419f5ee736ee.png)
+![image](https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif)
 
 
 <!--
