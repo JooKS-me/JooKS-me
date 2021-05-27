@@ -5,7 +5,9 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JooKS-me)](https://badges.pufler.dev)
 
 I am JooKS. 
-<iframe src="https://giphy.com/embed/ZCes4khR2025X0rOLY" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/meowbox-cat-meow-meowfest-ZCes4khR2025X0rOLY">via GIPHY</a></p>
+
+![image](https://user-images.githubusercontent.com/62384022/119856593-6e5a6a80-bf45-11eb-90ab-419f5ee736ee.png)
+
 
 <!--
 **JooKS-me/JooKS-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
