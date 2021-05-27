@@ -4,7 +4,7 @@
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JooKS-me)](https://badges.pufler.dev)
 
-I am JooKS. 
+I am JooKS, a Java novice who wants to be a Java geeker.
 
 ![image](https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif)
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying on Northeastern University at Qinhuangdao(NEUQ).
+- 🔭 I’m currently studying on Northeastern University at Qinhuangdao(NEUQ). And my major is mathematics .
 - 🌱 I’m currently learning Microservice.
 - 📫 You can reach me by email: jookunshuai@gmail.com
 - ⚡ Fun fact: I'm trying to find what's I really love~
