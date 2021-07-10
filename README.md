@@ -11,4 +11,4 @@
 - 💬 You can reach me by email: jookunshuai@gmail.com
 - 👯 There is my blog: https://www.jooks.cn/ (mainly in Chinese)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
