@@ -4,7 +4,7 @@
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JooKS-me)](https://badges.pufler.dev)
 
-### I am JooKS, a Java novice who wants to be a Java geeker.
+### I am JooKS, a Java novice.
 
 - 🔭 I’m currently studying on Northeastern University. And my major is ICS.
 - 🌱 I’m currently learning microservice and big data.
