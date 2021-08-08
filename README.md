@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36" height="36"/>
 
 [![Years Badge](https://badges.pufler.dev/years/JooKS-me)](https://badges.pufler.dev)
 
