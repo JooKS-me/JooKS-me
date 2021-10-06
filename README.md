@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on Northeastern University. And my major is ICS.
 - :coffee: I'm currently working part-time at meituan as a Back-end R&D Engineer.
-- 🌱 I’m currently learning microservice and big data.
+- 🌱 I’m currently learning distributed systems.
 - 💬 You can reach me by email: jookunshuai@gmail.com
 - 👯 There is my blog: https://www.jooks.cn/ (mainly in Chinese)
 
