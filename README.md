@@ -6,7 +6,7 @@
 
 ### I am JooKS, a Java novice.
 
-- 🔭 I’m currently studying on Northeastern University. And my major is ICS.
+- 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). And my major is ICS.
 - 🌱 I’m currently learning distributed systems.
 - 💬 You can reach me by email: jookunshuai@gmail.com
 - 👯 There is my blog: https://www.jooks.cn/ (mainly in Chinese)
