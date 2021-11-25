@@ -6,8 +6,9 @@
 
 ### I am JooKS, a Java novice.
 
-- 🔭 I’m currently studying on Northeastern University. And my major is ICS.
+- 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
 - 🌱 I’m currently learning distributed systems.
-- 💬 You can reach me by email: jookunshuai@gmail.com
+- 💬 You can reach me by email: jookunshuai@gmail.com .
+- 👌 Please feel free to contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
