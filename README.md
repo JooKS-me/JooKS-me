@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
 - 🌱 I’m currently learning distributed systems.
 - 💬 You can reach me by email: jooks@apache.org .
-- 👀 Looking for 2022 summer internship.
+- 👀 Looking for remote internship.
 - 👌 Please feel free to contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
