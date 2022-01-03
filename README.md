@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
 - 🌱 I’m currently learning distributed systems and cloud native.
-- 💬 You can reach me by email: jookunshuai@gmail.com .
+- 💬 You can reach me by email: jookunshuai@gmail.com / jooks@apache.org.
 - 👀 Looking for remote internship.
 - 👌 Please feel free to contact me.
 
