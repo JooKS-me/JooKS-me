@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
 - 🌱 I’m currently learning distributed systems and cloud native.
 - 💬 You can reach me by email: jookunshuai@gmail.com / jooks@apache.org.
-- 👀 Looking for remote internship.
+- 👀 Looking for remote internship (LXF Mentorship or GSoC are very attractive to me).
 - 👌 Please feel free to contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
