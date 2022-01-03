@@ -7,7 +7,7 @@
 ### I am JooKS, a Java novice.
 
 - 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
-- 🌱 I’m currently learning distributed systems.
+- 🌱 I’m currently learning distributed systems and cloud native.
 - 💬 You can reach me by email: jookunshuai@gmail.com .
 - 👀 Looking for remote internship.
 - 👌 Please feel free to contact me.
