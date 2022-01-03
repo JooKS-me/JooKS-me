@@ -4,7 +4,7 @@
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JooKS-me)](https://badges.pufler.dev)
 
-### I am JooKS, a Java novice.
+### I am JooKS.
 
 - 🔭 I’m currently studying on Northeastern University (Qinhuangdao, China). I will graduate in 2023.
 - 🌱 I’m currently learning distributed systems and cloud native.
