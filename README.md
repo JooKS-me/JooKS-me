@@ -1,14 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="36" height="36"/>
 
-[![Years Badge](https://badges.pufler.dev/years/JooKS-me)](https://badges.pufler.dev)
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/JooKS-me)](https://badges.pufler.dev)
-
-### I am JooKS.
+### I am JooKS
 
 - 🔭 I’m currently studying on Mentougou College.
-- 🌱 I’m currently learning distributed systems and cloud native.
-- 💬 You can reach me by email: jookunshuai@gmail.com / jooks@apache.org.
+- 🚀 I'm a PMC Member & Committer of Apache ShenYu.
+- 📖 I am familiar with network middleware and frameworks, and interested in cloud native.
+- 💬 You can reach me by email: jooks@apache.org / jookunshuai@gmail.com.
 - 👌 Please feel free to contact me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
