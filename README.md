@@ -8,4 +8,3 @@
 - 💬 You can reach me by email: jooks@apache.org / jookunshuai@gmail.com.
 - 👌 Please feel free to contact me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooKS-me&show_icons=true&theme=buefy&hide=stars&count_private=true)
